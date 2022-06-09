@@ -1,0 +1,26 @@
+{
+  "name": "TGMstudiosMusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@ksoft/api": "^3.1.9",
+    "avconv": "^3.1.0",
+    "ffmpeg-static": "^5.0.0",
+    "miniget": "^4.2.1",
+    "mongodb": "^3.7.2",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8",
+    "request": "^2.88.2",
+    "stack": "^0.1.0",
+    "valid-url": "^1.0.9",
+    "youtube-search": "^1.1.6",
+    "ytdl-core": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

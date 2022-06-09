@@ -1,0 +1,10 @@
+{
+    "mongo_host": "127.0.0.1",
+    "mongo_port": "27017",
+    "mongo_user": "root",
+    "mongo_pass": "password",
+    "mongo_db": "TGMusic",
+    "discord_default_prefix": "-",
+    "discord_token": "bot token",
+    "ksoft_api_key": "ksoft api key"
+}
